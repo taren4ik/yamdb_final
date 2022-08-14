@@ -46,6 +46,7 @@ docker-compose exec web python manage.py loaddata fixtures.json
 ```
 
 ## Статус
+* Текущий статус
 
 ![example workflow](https://https://github.com/taren4ik/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 ***Автор проекта***
