@@ -44,7 +44,6 @@ docker cp fixtures.json <ID контейнера>:/app/api_yamdb
 ```
 docker-compose exec web python manage.py loaddata fixtures.json
 ```
-
 ## Статус
 * Текущий статус
 
