@@ -43,8 +43,7 @@ jobs:
         with:
           context: ./api_yamdb/
           push: true
-            branches:
-              - master
+            branches: [ main ]
           tags: permyakoff/yamdb_final:v2
 
   deploy:
