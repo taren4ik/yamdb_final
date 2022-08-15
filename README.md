@@ -45,7 +45,9 @@ docker-compose exec web python manage.py loaddata fixtures.json
 ## Статус
 * Текущий статус
 
-![example workflow](https://https://github.com/taren4ik/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/taren4ik/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+## URL- сайта
+http://51.250.11.162/
 
 ***Автор проекта***
 * Дмитрий Пермяков | Github:https://github.com/taren4ik 
